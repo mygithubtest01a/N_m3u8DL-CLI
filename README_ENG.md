@@ -23,7 +23,7 @@ Supports:
   * Custom HTTP proxy or Use system proxy
   * Optimization for Chinese streaming platforms
   
-  ![ScreenShot](https://nilaoda.github.io/N_m3u8DL-CLI/source/images/%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8.gif)  
+  ![ScreenShot](https://mygithubtest01a.github.io/N_m3u8DL-CLI/source/images/%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8.gif)  
   
 ## GUI
   * Easy-to-use `GUI`
@@ -60,7 +60,7 @@ N_m3u8DL-CLI.exe <URL|JSON|FILE> [OPTIONS]
 ```
   
 ## Document
-  https://nilaoda.github.io/N_m3u8DL-CLI/
+  https://mygithubtest01a.github.io/N_m3u8DL-CLI/
 
 ## Chit-chat
 https://discord.gg/W5tvcRJDPs

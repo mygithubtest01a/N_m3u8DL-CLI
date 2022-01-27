@@ -48,7 +48,7 @@
 
 
 
-![运行截图](https://nilaoda.github.io/N_m3u8DL-CLI/source/images/%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8.gif)  
+![运行截图](https://mygithubtest01a.github.io/N_m3u8DL-CLI/source/images/%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8.gif)  
 
 # 命令行选项
 ```
@@ -84,7 +84,7 @@ N_m3u8DL-CLI.exe <URL|File|JSON> [OPTIONS]
 ```
 
 # 用户文档
-https://nilaoda.github.io/N_m3u8DL-CLI/
+https://mygithubtest01a.github.io/N_m3u8DL-CLI/
 
 # 聊聊
 https://discord.gg/W5tvcRJDPs
